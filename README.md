@@ -1,1 +1,1 @@
-# BALLToken contract
+# BALL Token contract
